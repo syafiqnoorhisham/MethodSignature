@@ -1,0 +1,14 @@
+/Users/macbookpromid2012/Projects/MethodSignature/MethodSignature/bin/Debug/netcoreapp3.1/MethodSignature
+/Users/macbookpromid2012/Projects/MethodSignature/MethodSignature/bin/Debug/netcoreapp3.1/MethodSignature.deps.json
+/Users/macbookpromid2012/Projects/MethodSignature/MethodSignature/bin/Debug/netcoreapp3.1/MethodSignature.runtimeconfig.json
+/Users/macbookpromid2012/Projects/MethodSignature/MethodSignature/bin/Debug/netcoreapp3.1/MethodSignature.runtimeconfig.dev.json
+/Users/macbookpromid2012/Projects/MethodSignature/MethodSignature/bin/Debug/netcoreapp3.1/MethodSignature.dll
+/Users/macbookpromid2012/Projects/MethodSignature/MethodSignature/bin/Debug/netcoreapp3.1/MethodSignature.pdb
+/Users/macbookpromid2012/Projects/MethodSignature/MethodSignature/obj/Debug/netcoreapp3.1/MethodSignature.csproj.AssemblyReference.cache
+/Users/macbookpromid2012/Projects/MethodSignature/MethodSignature/obj/Debug/netcoreapp3.1/MethodSignature.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpromid2012/Projects/MethodSignature/MethodSignature/obj/Debug/netcoreapp3.1/MethodSignature.AssemblyInfoInputs.cache
+/Users/macbookpromid2012/Projects/MethodSignature/MethodSignature/obj/Debug/netcoreapp3.1/MethodSignature.AssemblyInfo.cs
+/Users/macbookpromid2012/Projects/MethodSignature/MethodSignature/obj/Debug/netcoreapp3.1/MethodSignature.csproj.CoreCompileInputs.cache
+/Users/macbookpromid2012/Projects/MethodSignature/MethodSignature/obj/Debug/netcoreapp3.1/MethodSignature.dll
+/Users/macbookpromid2012/Projects/MethodSignature/MethodSignature/obj/Debug/netcoreapp3.1/MethodSignature.pdb
+/Users/macbookpromid2012/Projects/MethodSignature/MethodSignature/obj/Debug/netcoreapp3.1/MethodSignature.genruntimeconfig.cache
